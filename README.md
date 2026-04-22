@@ -71,7 +71,7 @@
 ## 실행 파일
 
 - merged_data.csv
-- analysis.ipynb
+- file.ipynb
 
 ---
 
